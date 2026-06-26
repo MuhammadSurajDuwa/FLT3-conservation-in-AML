@@ -1,4 +1,4 @@
-# Clinical Background: FLT3 Mutations in Acute Myeloid Leukemia
+# Evolutionary Conservation of Clinically Important FLT3 Mutation Hotspots Across Vertebrates
 
 This project forms part of my personal project-based learning journey in bioinformatics, developed alongside a short course at the Centre for Biotechnology Research, Bayero University Kano.
 
@@ -7,6 +7,7 @@ This project forms part of my personal project-based learning journey in bioinfo
 FLT3 mutation testing is routinely performed in newly diagnosed Acute Myeloid Leukemia (AML) because the results influence prognosis and treatment decisions. Two major mutation types are recognized:
 
  **FLT3-ITD (Internal Tandem Duplication)**, occurring in the juxtamembrane domain and generally associated with poorer outcomes.
+ 
  **FLT3-TKD (Tyrosine Kinase Domain Mutation)**, occurring in the kinase domain and carrying distinct biological and clinical implications.
 
 These mutations lead to constitutive activation of the FLT3 receptor tyrosine kinase, promoting uncontrolled proliferation of leukemic cells.
@@ -17,7 +18,9 @@ Modern AML management increasingly relies on molecular profiling, with FLT3 stat
 
 Why are mutations in specific regions of FLT3 so clinically important?
 
-One possibility is that these regions are evolutionarily conserved and functionally critical. If so, disruption of these conserved sites may have particularly significant biological consequences.
+**Hypothesis**
+
+Clinically important FLT3 mutation hotspots are located within evolutionarily conserved regions of the protein. If these regions have remained conserved across vertebrate evolution, mutations affecting them are more likely to disrupt essential biological functions.
 
 ## Project Objective
 
